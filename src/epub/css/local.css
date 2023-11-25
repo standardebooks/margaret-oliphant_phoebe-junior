@@ -21,4 +21,9 @@ footer{
 	text-align: initial;
 	text-indent: 0;
 }
+
+/* + for letter fragment in c39 */
+#chapter-39 blockquote{
+	text-align: right;
+}
 /* end letters */
