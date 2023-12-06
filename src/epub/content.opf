@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/margaret-oliphant/phoebe-junior</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2023-12-06T21:34:00Z</dc:date>
+		<meta property="dcterms:modified">2023-12-06T21:34:00Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -66,11 +66,11 @@
 		<meta id="collection-1" property="belongs-to-collection">Chronicles of Carlingford</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">5</meta>
-		<dc:description id="description">The friendship between the daughters of a Dissenting minister and an Anglican clergyman tests boundaries of class and wealth.</dc:description>
+		<dc:description id="description">The friendship between the daughters of a dissenting minister and an Anglican clergyman tests boundaries of class and wealth.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;As &lt;a href="https://standardebooks.org/ebooks/margaret-oliphant/salem-chapel"&gt;&lt;i&gt;Salem Chapel&lt;/i&gt;&lt;/a&gt; concludes, a new minister has arrived, quickly paired off with his leading deacon’s daughter, the pink and plump Phoebe Tozer. She has her own ambitions, and as &lt;i&gt;Phoebe, Junior&lt;/i&gt; begins, twenty years have passed since the family left Carlingford. They have risen in the “connection,” and in London society. Her daughter, Phoebe Beecher, is a clever and accomplished young woman, wise beyond her years.&lt;/p&gt;
 			&lt;p&gt;Young Phoebe’s ailing Grandmother Tozer needs care, however, so she returns to the dubious small-town social life of Carlingford to nurse “grandmamma.” Circumstances throw her together with another attractive young woman whom Phoebe has, in fact, met in London: Ursula May, eldest daughter of the present incumbent of St. Roque’s, an Anglican church in the town. Although both are “daughters of the manse,” their social standing is completely different: Phoebe is lady-like and well off, yet as granddaughter of shopkeeper, she has no social standing next to the impoverished Ursula, whose father, even as a Perpetual Curate, has at least some distinction as a clergyman of the Church of England.&lt;/p&gt;
-			&lt;p&gt;Where there are two amiable young women in a Victorian novel, thoughts of matrimony cannot long be kept at bay. But &lt;a href="https://standardebooks.org/ebooks/margaret-oliphant"&gt;Margaraet Oliphant&lt;/a&gt; has a distinctive social and moral vision; although this strand of the narrative has an important place, conventional romance is in short supply.&lt;/p&gt;
+			&lt;p&gt;Where there are two amiable young women in a Victorian novel, thoughts of matrimony cannot long be kept at bay. But &lt;a href="https://standardebooks.org/ebooks/margaret-oliphant"&gt;Margaret Oliphant&lt;/a&gt; has a distinctive social and moral vision; although this strand of the narrative has an important place, conventional romance is in short supply.&lt;/p&gt;
 			&lt;p&gt;But there is more yet to this ambitious novel. As in other books in this series, the politics of gender plays a significant role. Also, Oliphant seems often to have had her contemporary novelists in her sights, and &lt;i&gt;Phoebe, Junior&lt;/i&gt; takes aim at both &lt;a href="https://standardebooks.org/ebooks/anthony-trollope"&gt;Anthony Trollope&lt;/a&gt; and Charlotte Yonge. For Oliphant, neither of her peers had sufficiently grappled with the moral ambiguities of the established church, or the corrosive power of money and its lack. (&lt;i&gt;Phoebe, Junior&lt;/i&gt; was reaching completion as &lt;a href="https://standardebooks.org/ebooks/anthony-trollope/the-way-we-live-now"&gt;&lt;i&gt;The Way We Live Now&lt;/i&gt;&lt;/a&gt; appeared.) Her own handling of these themes here attempts to add required nuance.&lt;/p&gt;
 			&lt;p&gt;After the artistic triumph of &lt;a href="https://standardebooks.org/ebooks/margaret-oliphant/miss-marjoribanks"&gt;&lt;i&gt;Miss Marjoribanks&lt;/i&gt;&lt;/a&gt;, Margaret Oliphant abandoned the &lt;a href="https://standardebooks.org/collections/chronicles-of-carlingford"&gt;Chronicles of Carlingford&lt;/a&gt; to pursue other writing projects. She wrote prodigiously to support her difficult family, and at least fifteen novels had been published in the interim when &lt;i&gt;Phoebe, Junior&lt;/i&gt; appeared. However, Oliphant had taken four years to complete this work—an unusually long period of composition for so swift a writer. In 1872 she wrote to her old publisher, William Blackwood, “I have begun, partly to amuse myself, and on a sudden impulse, a new series of the ‘Chronicles of Carlingford’ to be called ‘Phoebe Junior,’ and to embody the history of the highly intellectual and much-advanced family of the late Miss Phoebe Tozer. I don’t know whether you will have any interest in this or not, but you have a right to be told of it at least.”&lt;/p&gt;
 			&lt;p&gt;In the event, Blackwood was not interested, but Oliphant found another publisher readily enough. On its publication, it was not widely reviewed, although those who did appreciated its fine qualities. Perhaps Oliphant had simply provided too much prose for her public. More recent readers have found this compelling and complex narrative to have aged well. It was serialized as a four-part drama by BBC Radio in 1993, and has often been reprinted.&lt;/p&gt;
@@ -80,8 +80,8 @@
 		<dc:source>https://books.google.com/books?id=FNsBAAAAQAAJ</dc:source>
 		<dc:source>https://books.google.com/books?id=wNYBAAAAQAAJ</dc:source>
 		<dc:source>https://books.google.com/books?id=ztYBAAAAQAAJ</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">158683</meta>
+		<meta property="se:reading-ease.flesch">69.82</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Phoebe,_Junior</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/margaret-oliphant_phoebe-junior</meta>
 		<dc:creator id="author">Margaret Oliphant</dc:creator>
@@ -108,6 +108,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Weijia Cheng</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cheng, Weijia</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://weijiarhymeswith.asia</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
